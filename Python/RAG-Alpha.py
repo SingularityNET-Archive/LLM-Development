@@ -1,5 +1,6 @@
 # This is a proof of concept RAG (retrieval-augmented generation) file
 
+
 from langchain.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
