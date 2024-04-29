@@ -10,7 +10,7 @@ import os
 import shutil
 
 CHROMA_PATH = "chroma"
-DATA_PATH = "data/books"
+DATA_PATH = "Python/data"
 
 
 def main():
