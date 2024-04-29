@@ -1,5 +1,5 @@
 Python/.env
-env/*
+env/
 env/lib/python3.12/site-packages/langchain_core/caches.py
 env/lib/python3.12/site-packages/langchain_core/chat_history.py
 env/lib/python3.12/site-packages/langchain_core/retrievers.py
