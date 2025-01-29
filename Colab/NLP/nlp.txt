@@ -1,0 +1,816 @@
+[
+    {
+        "entity": "Governance Workgroup",
+        "label": "PERSON",
+        "context": "workgroup"
+    },
+    {
+        "relationship": "Workgroup",
+        "context": "workgroup"
+    },
+    {
+        "relationship": "bcfadc9a-79d3",
+        "context": "workgroup_id"
+    },
+    {
+        "relationship": "Weekly",
+        "context": "name"
+    },
+    {
+        "entity": "2025-01-07",
+        "label": "DATE",
+        "context": "date"
+    },
+    {
+        "relationship": "2025",
+        "context": "date"
+    },
+    {
+        "relationship": "PeterE",
+        "context": "host"
+    },
+    {
+        "relationship": "CallyFromAuron",
+        "context": "documenter"
+    },
+    {
+        "entity": "CollyPride",
+        "label": "ORG",
+        "context": "peoplePresent"
+    },
+    {
+        "entity": "AshleyDawn",
+        "label": "ORG",
+        "context": "peoplePresent"
+    },
+    {
+        "entity": "LadyTempestt",
+        "label": "ORG",
+        "context": "peoplePresent"
+    },
+    {
+        "entity": "LordKizzy",
+        "label": "ORG",
+        "context": "peoplePresent"
+    },
+    {
+        "relationship": "PeterE",
+        "context": "peoplePresent"
+    },
+    {
+        "entity": "Weekly Governance",
+        "label": "PERSON",
+        "context": "purpose"
+    },
+    {
+        "relationship": "meeting",
+        "context": "purpose"
+    },
+    {
+        "relationship": "calls",
+        "context": "title"
+    },
+    {
+        "relationship": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing",
+        "context": "link"
+    },
+    {
+        "entity": "Year",
+        "label": "DATE",
+        "context": "title"
+    },
+    {
+        "relationship": "End",
+        "context": "title"
+    },
+    {
+        "relationship": "https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing",
+        "context": "link"
+    },
+    {
+        "entity": "Q4",
+        "label": "CARDINAL",
+        "context": "title"
+    },
+    {
+        "relationship": "issues",
+        "context": "title"
+    },
+    {
+        "relationship": "https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing",
+        "context": "link"
+    },
+    {
+        "relationship": "Budgets",
+        "context": "title"
+    },
+    {
+        "relationship": "https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing",
+        "context": "link"
+    },
+    {
+        "entity": "Treasury",
+        "label": "ORG",
+        "context": "title"
+    },
+    {
+        "relationship": "Form",
+        "context": "title"
+    },
+    {
+        "entity": "https://docs.google.com/forms/d/e/1FAIpQLScA7Rcw-7QclL13qnfsdrtFt64nYRKM7zU1LgOK9wEoaWgpqg/viewform",
+        "label": "ORG",
+        "context": "link"
+    },
+    {
+        "relationship": "https://docs.google.com/forms/d/e/1FAIpQLScA7Rcw-7QclL13qnfsdrtFt64nYRKM7zU1LgOK9wEoaWgpqg/viewform",
+        "context": "link"
+    },
+    {
+        "relationship": "carry",
+        "context": "status"
+    },
+    {
+        "entity": "Town Hall",
+        "label": "FAC",
+        "context": "narrative"
+    },
+    {
+        "entity": "tonight",
+        "label": "TIME",
+        "context": "narrative"
+    },
+    {
+        "entity": "Discord",
+        "label": "GPE",
+        "context": "narrative"
+    },
+    {
+        "entity": "2",
+        "label": "CARDINAL",
+        "context": "narrative"
+    },
+    {
+        "entity": "Googleform",
+        "label": "PERSON",
+        "context": "narrative"
+    },
+    {
+        "entity": "WG Sync Calls",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "Town Hall",
+        "label": "FAC",
+        "context": "narrative"
+    },
+    {
+        "entity": "tonight",
+        "label": "TIME",
+        "context": "narrative"
+    },
+    {
+        "entity": "Discord",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "Governance",
+        "label": "PERSON",
+        "context": "narrative"
+    },
+    {
+        "entity": "Thurs",
+        "label": "GPE",
+        "context": "narrative"
+    },
+    {
+        "entity": "9th",
+        "label": "ORDINAL",
+        "context": "narrative"
+    },
+    {
+        "entity": "Thurs 16th",
+        "label": "DATE",
+        "context": "narrative"
+    },
+    {
+        "entity": "GovWG",
+        "label": "PERSON",
+        "context": "narrative"
+    },
+    {
+        "entity": "Tues 14th",
+        "label": "FAC",
+        "context": "narrative"
+    },
+    {
+        "entity": "Q1",
+        "label": "CARDINAL",
+        "context": "narrative"
+    },
+    {
+        "entity": "Peter",
+        "label": "PERSON",
+        "context": "narrative"
+    },
+    {
+        "entity": "DM Core Contributors",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "Q1",
+        "label": "CARDINAL",
+        "context": "narrative"
+    },
+    {
+        "entity": "Tevo",
+        "label": "PERSON",
+        "context": "narrative"
+    },
+    {
+        "entity": "Core Contributors",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "Googleform",
+        "label": "PERSON",
+        "context": "narrative"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "20",
+        "label": "MONEY",
+        "context": "narrative"
+    },
+    {
+        "entity": "Q3",
+        "label": "PRODUCT",
+        "context": "narrative"
+    },
+    {
+        "entity": "20",
+        "label": "MONEY",
+        "context": "narrative"
+    },
+    {
+        "entity": "Read.ai",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "Thurs 30th Jan",
+        "label": "DATE",
+        "context": "narrative"
+    },
+    {
+        "entity": "the day",
+        "label": "DATE",
+        "context": "narrative"
+    },
+    {
+        "entity": "Peter",
+        "label": "PERSON",
+        "context": "narrative"
+    },
+    {
+        "entity": "Town Hall",
+        "label": "FAC",
+        "context": "narrative"
+    },
+    {
+        "entity": "tonight",
+        "label": "TIME",
+        "context": "narrative"
+    },
+    {
+        "entity": "Weds",
+        "label": "PERSON",
+        "context": "narrative"
+    },
+    {
+        "entity": "29th",
+        "label": "DATE",
+        "context": "narrative"
+    },
+    {
+        "entity": "Treasury",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "Jan last year",
+        "label": "DATE",
+        "context": "narrative"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "WG",
+        "label": "NORP",
+        "context": "narrative"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "quarterly",
+        "label": "DATE",
+        "context": "narrative"
+    },
+    {
+        "entity": "the first week of the Quarter",
+        "label": "DATE",
+        "context": "narrative"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "entity": "Treasury",
+        "label": "ORG",
+        "context": "narrative"
+    },
+    {
+        "relationship": "noted",
+        "context": "narrative"
+    },
+    {
+        "relationship": "been",
+        "context": "narrative"
+    },
+    {
+        "relationship": "give",
+        "context": "narrative"
+    },
+    {
+        "relationship": "noted",
+        "context": "narrative"
+    },
+    {
+        "relationship": "do",
+        "context": "narrative"
+    },
+    {
+        "relationship": "'s",
+        "context": "narrative"
+    },
+    {
+        "relationship": "noted",
+        "context": "narrative"
+    },
+    {
+        "relationship": "Were",
+        "context": "narrative"
+    },
+    {
+        "relationship": "Were",
+        "context": "narrative"
+    },
+    {
+        "relationship": "noted",
+        "context": "narrative"
+    },
+    {
+        "relationship": "agreed",
+        "context": "narrative"
+    },
+    {
+        "relationship": "agreed",
+        "context": "narrative"
+    },
+    {
+        "relationship": "is",
+        "context": "narrative"
+    },
+    {
+        "relationship": "outlined",
+        "context": "narrative"
+    },
+    {
+        "relationship": "becomes",
+        "context": "narrative"
+    },
+    {
+        "relationship": "be",
+        "context": "narrative"
+    },
+    {
+        "relationship": "do",
+        "context": "narrative"
+    },
+    {
+        "relationship": "todo",
+        "context": "status"
+    },
+    {
+        "entity": "Peter",
+        "label": "PERSON",
+        "context": "text"
+    },
+    {
+        "entity": "DM Core Contributors",
+        "label": "ORG",
+        "context": "text"
+    },
+    {
+        "entity": "Q1",
+        "label": "CARDINAL",
+        "context": "text"
+    },
+    {
+        "relationship": "Peter",
+        "context": "text"
+    },
+    {
+        "relationship": "PeterE",
+        "context": "assignee"
+    },
+    {
+        "entity": "14 January 2025",
+        "label": "DATE",
+        "context": "dueDate"
+    },
+    {
+        "relationship": "January",
+        "context": "dueDate"
+    },
+    {
+        "entity": "Peter",
+        "label": "PERSON",
+        "context": "text"
+    },
+    {
+        "entity": "Town Hall",
+        "label": "FAC",
+        "context": "text"
+    },
+    {
+        "entity": "later today",
+        "label": "TIME",
+        "context": "text"
+    },
+    {
+        "entity": "Year Report",
+        "label": "WORK_OF_ART",
+        "context": "text"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "text"
+    },
+    {
+        "relationship": "raise",
+        "context": "text"
+    },
+    {
+        "relationship": "PeterE",
+        "context": "assignee"
+    },
+    {
+        "entity": "7 January 2025",
+        "label": "DATE",
+        "context": "dueDate"
+    },
+    {
+        "relationship": "January",
+        "context": "dueDate"
+    },
+    {
+        "relationship": "done",
+        "context": "status"
+    },
+    {
+        "entity": "Tevo",
+        "label": "PERSON",
+        "context": "text"
+    },
+    {
+        "entity": "Q1",
+        "label": "CARDINAL",
+        "context": "text"
+    },
+    {
+        "relationship": "ask",
+        "context": "text"
+    },
+    {
+        "relationship": "CallyFromAuron",
+        "context": "assignee"
+    },
+    {
+        "entity": "9 January 2025",
+        "label": "DATE",
+        "context": "dueDate"
+    },
+    {
+        "relationship": "January",
+        "context": "dueDate"
+    },
+    {
+        "relationship": "todo",
+        "context": "status"
+    },
+    {
+        "entity": "30",
+        "label": "MONEY",
+        "context": "decision"
+    },
+    {
+        "entity": "20",
+        "label": "MONEY",
+        "context": "decision"
+    },
+    {
+        "entity": "the end of Q1",
+        "label": "DATE",
+        "context": "decision"
+    },
+    {
+        "relationship": "raise",
+        "context": "decision"
+    },
+    {
+        "relationship": "stay",
+        "context": "decision"
+    },
+    {
+        "entity": "Q3",
+        "label": "PRODUCT",
+        "context": "rationale"
+    },
+    {
+        "entity": "Q4",
+        "label": "PRODUCT",
+        "context": "rationale"
+    },
+    {
+        "entity": "20",
+        "label": "MONEY",
+        "context": "rationale"
+    },
+    {
+        "relationship": "be",
+        "context": "rationale"
+    },
+    {
+        "relationship": "allocated",
+        "context": "rationale"
+    },
+    {
+        "relationship": "none",
+        "context": "opposing"
+    },
+    {
+        "relationship": "affectsOnlyThisWorkgroup",
+        "context": "effect"
+    },
+    {
+        "entity": "WG",
+        "label": "NORP",
+        "context": "decision"
+    },
+    {
+        "entity": "0-5%",
+        "label": "PERCENT",
+        "context": "decision"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "decision"
+    },
+    {
+        "entity": "quarterly",
+        "label": "DATE",
+        "context": "decision"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "decision"
+    },
+    {
+        "entity": "1x per quarter",
+        "label": "DATE",
+        "context": "decision"
+    },
+    {
+        "entity": "5-35%",
+        "label": "PERCENT",
+        "context": "decision"
+    },
+    {
+        "entity": "quarterly",
+        "label": "DATE",
+        "context": "decision"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "decision"
+    },
+    {
+        "entity": "#",
+        "label": "CARDINAL",
+        "context": "decision"
+    },
+    {
+        "entity": "Discord",
+        "label": "ORG",
+        "context": "decision"
+    },
+    {
+        "entity": "1 week",
+        "label": "DATE",
+        "context": "decision"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "decision"
+    },
+    {
+        "entity": "Governance",
+        "label": "PERSON",
+        "context": "decision"
+    },
+    {
+        "entity": "35%",
+        "label": "PERCENT",
+        "context": "decision"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "decision"
+    },
+    {
+        "entity": "Quarter",
+        "label": "PERSON",
+        "context": "decision"
+    },
+    {
+        "entity": "that Quarter",
+        "label": "DATE",
+        "context": "decision"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "decision"
+    },
+    {
+        "entity": "5k AGIX",
+        "label": "MONEY",
+        "context": "decision"
+    },
+    {
+        "entity": "Quarter 2 2025",
+        "label": "DATE",
+        "context": "decision"
+    },
+    {
+        "entity": "1k",
+        "label": "CARDINAL",
+        "context": "decision"
+    },
+    {
+        "entity": "6k AGIX",
+        "label": "QUANTITY",
+        "context": "decision"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "decision"
+    },
+    {
+        "entity": "the end of a Quarter",
+        "label": "DATE",
+        "context": "decision"
+    },
+    {
+        "relationship": "change",
+        "context": "decision"
+    },
+    {
+        "relationship": "submit",
+        "context": "decision"
+    },
+    {
+        "relationship": "Contributor",
+        "context": "decision"
+    },
+    {
+        "relationship": "decide",
+        "context": "decision"
+    },
+    {
+        "relationship": "Discuss",
+        "context": "decision"
+    },
+    {
+        "relationship": "have",
+        "context": "decision"
+    },
+    {
+        "relationship": "do",
+        "context": "decision"
+    },
+    {
+        "relationship": "is",
+        "context": "rationale"
+    },
+    {
+        "relationship": "prevent",
+        "context": "rationale"
+    },
+    {
+        "relationship": "mayAffectOtherPeople",
+        "context": "effect"
+    },
+    {
+        "entity": "Town Hall",
+        "label": "FAC",
+        "context": "decision"
+    },
+    {
+        "entity": "Treasury",
+        "label": "ORG",
+        "context": "decision"
+    },
+    {
+        "relationship": "discussed",
+        "context": "decision"
+    },
+    {
+        "entity": "Treasury",
+        "label": "ORG",
+        "context": "rationale"
+    },
+    {
+        "relationship": "seems",
+        "context": "rationale"
+    },
+    {
+        "relationship": "none",
+        "context": "opposing"
+    },
+    {
+        "relationship": "mayAffectOtherPeople",
+        "context": "effect"
+    },
+    {
+        "entity": "Year",
+        "label": "DATE",
+        "context": "topicsCovered"
+    },
+    {
+        "entity": "Workgroup Sync",
+        "label": "PERSON",
+        "context": "topicsCovered"
+    },
+    {
+        "entity": "2025",
+        "label": "CARDINAL",
+        "context": "topicsCovered"
+    },
+    {
+        "entity": "Workgroup",
+        "label": "PERSON",
+        "context": "topicsCovered"
+    },
+    {
+        "entity": "WG",
+        "label": "ORG",
+        "context": "topicsCovered"
+    },
+    {
+        "relationship": "call",
+        "context": "topicsCovered"
+    },
+    {
+        "relationship": "made",
+        "context": "emotions"
+    },
+    {
+        "relationship": "Custom",
+        "context": "type"
+    }
+]
