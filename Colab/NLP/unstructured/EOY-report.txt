@@ -1,0 +1,203 @@
+﻿Ambassador Program End of Year report 2024
+List of contributors(add your name): Vanessa, Tevo, Peter, Guillermo, SucrenSpice
+
+
+Draft outline:
+Feel free to add sections as you see fit. Most of this document will get assembled asynchronously. 
+
+
+Main description
+
+
+What we do
+        Explain functions
+
+
+We assist the world community in exploring and explaining the different aspects and functions of our decentralized advanced AI development ecosystem. (Wordy)
+
+
+We help to educate the world community about AI governance, AI ethics and safety, responsible AI development, and the roles AI can play in our everyday lives.
+
+
+We demonstrate, by our own practice and our use and development of AI tooling, how AI can be aligned for the good of humanity (not saying that well… help?)
+
+
+How we do it
+        Decentralization: 
+                
+                Wg autonomy re: membership, meetings, tooling, budgets
+                Dework/github
+Townhalls / WG syncing calls 
+Governance: 
+                Consent process experimentation over time
+                Full consent, 3 iterations with last one being 80+% majority, 2 iterations, budget caps, now adjusting budget caps
+Treasury:[a][b]
+1) The Ambassador Program has designed, built and maintained its own Treasury system and open-source Treasury tooling since March 2023, which a) gives a degree of automation of payments within the Program b) offers a public, on-chain record of payments, thus supporting transparency c) includes a public dashboard, which gives vital information to help WGs manage their budgets themselves, thus supporting decentralisation and WG autonomy.
+2) In 2024, Treasury has trained 13 new Treasury operators, thus increasing decentralisation; has increased automations, for example, of recording who attends meetings across the Program, to help us track contribution; and has maintained Treasury Guild meetings as a place where the community can talk about financial issues and refine Treasury processes. This obviously has a strong link to our governance as a Program, and reflects our decentralised and open-source ethos.  
+3) dashboard: (explain basic functionalities) https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet 
+4) Allocation from Supervisory Council wallet, 0.5% of Phase Two[c] tokens
+        Recordkeeping:
+The Ambassador Program maintains an open-source archival record of meetings of our various WGs, held on a GitBook backed up to a GitHub repo. This supports transparency and accountability, and helps the different parts of the Program stay aware of each other’s work. We also maintain documents such as budgets and quarterly reports, both in the Archives itself, and on the Ambassador GitBook. The Archives is searchable via a dashboard; this supports good governance by enabling us to track decisions and other meeting outputs.
+
+
+        Building
+        Overview of outputs
+                Dashboards, reports, tools Could include Archives dashboard; meeting summary tool; Archives docs manager
+                Zoom api by process guild?
+We also “build” in other contexts, not purely tech outputs. Community building, including regional approaches in Africa and Latin America; building educational resources and training materials;
+
+
+        Research
+many WGs do research. R&D disability, AI ethics, decision making tooling, Onboarding, African Guild?? Aiming for an evidence-based approach to what we do
+whole program is research/experiment - organising outputs, automation
+
+
+        Events
+Online + IRL
+BGI24
+AGI-24 - Members of the Ambassador Program’s Ai Ethics WG and LatAm Guild took part in this event in Seattle in August 2024. We ran a virtual chillout room for several hours each day of the event, where people could come and chat and discuss the presentations; and we also took part in a pre-conference roundtable with Ben Goertzel and others, and led breakout rooms on topics including Ai and anthropomorphism; cultural perspectives on AI from indigenous communities, based on this position paper; and AI/human collaboration (in Spanish)
+ADN
+Hackathon
+Nigeria
+
+Collaborations
+Mindplex
+Rejuve
+ASI
+
+
+Workgroups
+For every workgroup, some paragraphs are needed on the main work done last year, how many people involved, highlights, relevant links, future outlook on 2025. In true decentralized fashion, anything you feel you want to talk about re: the workgroup goes, just keep is somewhat concise as we have a lot of groups! A format per workgroup might evolve as we go. It’s adviced to discuss the workgroup section on each workgroup channel. Also feel free to ask if anything is unclear.
+
+
+African Guild
+AI Ethics WG: 
+This group works in tandem with the BGI Collective, part of the SingularityNET Foundation. In 2024 our core focus was contributing to the Collective’s ongoing qualitative research project by conducting interviews with the general public about their concerns about AI, and their attitudes to how it should be developed ethically. We trained 15 interviewers, and collected around 55 hours of interview material, mostly from friends and family of group members; these are interviewees that the BGI research project would be unlikely to otherwise reach, so it represents a significant contribution to the inclusivity and diversity of the research. We have also worked closely with the BGI Collective on developing a set of research ethics, and on open-source knowledge management processes for the research data; and we collaborated with African Guild on the Ubuntu and AI event in September, and with the Foundation on online engagement in the AGI-24 conference in August. In 2025, we plan to continue with collecting research data, and work on knowledge management to make the data discoverable and accessible.
+You can read our most recent Quarterly Report in the Ambassador GitBook, and see details of our regular meetings in the Ambassador Program Archives.
+
+
+AI Sandbox/Think Tank
+In 2024, the AI Sandbox/Think Tank initiative resumed after a two-quarter pause, focusing on fostering experimentation and intellectual exploration within the AI community. Key achievements included hosting three AI Sandbox sessions and three AI Think Tank sessions, with an average of 15 members participating in weekly calls. Contributors engaged in AI tool exhibitions, roundtable discussions, theoretical debates, and much more, which deepened understanding and encouraged the adoption of high-performance AI tools like Hygen.ai, Zapier, Podcastle.ai, and LM Notetaker.
+
+
+Highlights included discussions on AI ethics, Learning Modules on Benevolent Artificial General Intelligence (AGI), AGI architecture, and AI's societal impact on the future of work and education, alongside the creation of repositories for code and documentation to enhance collaboration. 
+
+
+In 2025, plans involve testing AI tools for adoption, hosting Project Showcases, exploring groundbreaking ideas through Think Pieces, and hosting Critical Thinking Sessions. Our goal aims at strengthen community engagement, foster innovation, and align closely with SingularityNET’s goals.
+
+
+Relevant links and session documentation are embedded within the report
+
+
+Archives WG: 
+In 2024, the Archives Workgroup strengthened recordkeeping and documentation across the Ambassador Program by redesigning its meeting summary tool, developing a process to open-source and archive Google Docs that are submitted as part of meeting summaries, launching an archives dashboard to track decisions across WGs, and researching a RAG process (and shifting mid-year to exploring SQL retrieval, to reduce AI fabrications and hallucinations). 
+Around ten members joined monthly calls to tackle deeper recordkeeping challenges. Budget constraints led to a sharper focus on the core priorities of archive maintenance and development.
+Highlights included the launch of the dashboard; an “open-source paradigm” presentation at Town Hall on 3rd December; and of course, ongoing archives maintenance, creating an open-source record of the Program’s activities.
+In 2025, the WG plans to refine its tools, integrate controlled vocabularies, and expand collaborative approaches to documentation, aiming for more robust, decentralised recordkeeping. 
+Relevant links:
+* Github board - https://github.com/orgs/SingularityNET-Archive/projects/1
+* Gitbook - https://snet-ambassadors.gitbook.io/singularitynet-archive
+You can read our most recent Quarterly Report in the Ambassador GitBook, and see details of our regular meetings in the Ambassador Program Archives.
+
+
+
+
+
+
+Education Guild
+Gamers' Guild
+GitHub PBL WG
+We provide space to learn and teach GitHub for Project Management. Our goal is to create a PBL course on Andamio about GitHub features and use cases to manage SingularityNET Ambassador Projects.
+
+
+This is very new workgroup that has only met few times. With that time we have drafted some of the lessons and prepared our course structure.
+
+
+A more detailed Q4 Report can be found here
+
+
+Governance WG: 
+Our main aim is to create open spaces where the whole Ambassador Program can discuss governance issues. In 2024, most of this work has been on developing and supporting the Program’s core governance process - our Consent-based approval process for WGs’ quarterly budgets. Governance WG manages the Consent decisionmaking process and its timeline; publicises it and writes context-setting materials to ensure everyone understands how the process works; leads retrospective sessions each Quarter to iterate on the process; and implements any suggested changes. This year, we have also extensively discussed the question of how to manage and govern a Program which has a finite budget, but a constantly expanding membership; conducted small experiments with other decisionmaking processes apart from Consent, such as consensus or consultative; and worked to keep the key principle of decentralisation to the forefront in everything we do. 
+You can read our most recent Quarterly Report on the Ambassador GitBook, and see detail of out regular meetings in the Ambassador Program Archives.
+
+
+Knowledge Base WG
+This group aims to enhance the SingularityNET Ambassador Program by centralizing and organizing information. We will curate relevant content, making it easily accessible and understandable for all members. Our goal is to aggregate Ambassador Program assets and relevant information under Knowledge Base WG GitBook.
+
+
+We created and started using a custom GPT that helps to organise our assets. Looking ahead we plan to automate GitBook updates to handle the ever-expanding volume of program assets.
+________________
+LatAm Guild
+Year Report: @SNET_Latam Ambassadors Guild
+In our first year, the @SNET_Latam Ambassadors Guild focused on increasing SingularityNET's presence in Latin America by building a strong regional community and forming strategic partnerships with local public and private sectors. Our main goal has been expanding the ecosystem's influence and ensuring sustainable growth in the region. We've carried out a series of outreach actions, connecting with educational institutions and industry leaders, while opening doors for collaborations. Events were key to this effort, including our participation in major tech conferences and hosting x-spaces like the "RoundTable" and "Ecosystem Update." These attracted top developers and thinkers from LATAM. We also partnered with @ASI_Alliance and @Fetch.ai for regional hackathons and joined global initiatives like AGI24. Our onboarding strategy prioritized Argentina and Brazil in 2024, with plans to expand to Colombia and Mexico in 2025. We’ve added six core members to our team and will continue recruiting tech profiles to support regional goals. Looking ahead, our focus will be on scaling initiatives, onboarding new members, and deepening partnerships. Education and developer training will be central, with the launch of 'LatAm Metta Coders' for knowledge sharing. Our outreach strategy will focus on creating partnerships and commercial opportunities.
+
+
+2024 @SNET_LatAm Guild Quarterly Reports _ 230125
+In the following link you can access the folder with the quarterly reports prepared by the guild with the details of the results and outcomes of the efforts on 2024.
+R&D Guild: 
+This year, this dynamically talented group saw a rise of leadership and action. Through the hard work of Guillermo Lucero - he exemplified how sharp focus, positive motivational style and an inclusive aura will bring out true group innovation. The refinement and adjustment of our Proposal Process and Documentation brought out clarity for aligned project selection. For the Ambassador Program, we are developing systems such as an Operations Dashboard and a Token-bound Reputation System; we conducted a Disability Viability Study, and brought The AI Sandbox/AI ThinkTank back to glorious life. In 2025, we spring forward as we venture out into the Singularity NET Ecosystem and explore our talents to assist with the alignment of its goals using OpenCog Hyperon via the MeTTa language as just one example. You can read our most recent Quarterly Report on the Ambassador GitBook, and see details of our regular meetings in the Ambassador Program Archives. Following a detailed report on 2024 R&D achievements. 
+________________
+
+
+Year Report: @SNET_Ambassadors R&D Guild
+In its first year, the @SNET_Ambassadors R&D Guild focused on advancing AI and blockchain innovations within the SingularityNET ecosystem. Our mission was to foster research, collaborate with experts, and support community members. We hosted 49 weekly meetings, migrated operations to GitHub, and optimized workflows. The Guild faced disruptions that led to internal transformations. After Q1/Q2 iterations, we developed a new proposal submission system, involving the community in decision-making. By Q4, we successfully implemented this system, with three proposals now in development, aimed at benefiting the community. The Guild delivered three investigations that became funded @DeepFunding R#4 Proposals. Currently, six tools, dashboards and artifacts are in development to improve collaboration and transparency. The MeTTa Coder Lab initiative was launched to educate members on cognitive computations and the OpenCog Hyperon framework.
+
+
+In 2025, we'll focus on increasing engagement, onboarding tech profiles, hosting regional meetups and workshops. Always focusing on collaboration and adding value to the efficiency of the WG and Guilds. In the coming year, the Guild will accelerate research and contribute to OpenCog and MeTTa adoption, empowering the next generation of @CoreContributors to support SingularityNET and @ASI_Alliance’s objectives.
+
+
+2024 R&D Guild Quarterly Reports _ 230125
+In the following link you can access the folder with the quarterly reports prepared by the guild with the details of the results and outcomes of the efforts on 2024. includes links to complete documentation, repositories of completed projects and developments still in progress.
+Marketing Guild
+The Marketing Guild is proud to present some of the notable moments from 2024. As a guild, we are committed to expanding SingularityNET's reach to a wider audience. One of our key initiatives in 2024 was Zealy cross-collaboration. The Marketing Guild partnered with Rejuve.AI, a leading project within the SingularityNET ecosystem. Through this collaboration, we engaged community members in meaningful activities, promoted shared learning, and amplified the impact of both projects across the ecosystem.
+We also introduced the Guilds and Workgroup Spotlight, a monthly feature that highlights one guild or workgroup within the SNET Ambassadors Program. Additionally, the Community Spotlight on the Ambassador Twitter account showcased contributors making significant contributions within their respective guilds or workgroups.
+In 2024, the Graphics Team successfully developed Brand Guidelines for the Ambassador Program, ensuring consistent representation across all materials. They also created essential visuals for the Community Spotlight and content calendar, providing cohesive and professional branding throughout the community.
+In the last quarter of 2024, the Marketing Guild spearheaded the Mascot Design Competition, a creative initiative aimed at designing a unique mascot that reflects the spirit and values of the SingularityNET Ambassador Program. The mascot serves as a visual representation of the program, appearing in marketing campaigns, events, and various branding platforms.
+We also developed a Governance Document to streamline decision-making, address conflicts, establish the voting quorum for consensus, and outline effective governance processes. Additionally, we conducted a series of surveys to better understand the community’s core goals and perspectives. The resulting report highlighted objectives such as improving onboarding, promoting decentralized AI, and strengthening community ties. It also provided actionable recommendations to enhance onboarding, education efforts, and cross-guild collaboration.
+To foster innovation, we encouraged community members to submit marketing initiatives and creative ideas aligned with our objectives. While some initiatives were funded directly, others were escalated to the foundation for further consideration. Lastly, we collaborated closely with the Onboarders team to welcome and integrate new members into the SingularityNET Ambassador Program. Looking ahead to 2025, the Marketing Guild remains dedicated to working together to grow SingularityNET in every possible way.
+Moderators WG
+Moderation of Discord and Telegram plays a key role in providing users with information about the projects and safety. Unfortunately the crypto/web3 space is still very popular for scammers, so making sure our users are safe and informed will remain a priority. Over the past year we’ve had Demonix manage our server and finally connected the SingularityNET ecosystem telegram admins to the Ambassador Program. This is still to be built out to include Discord moderation, which currently is less intense than Telegram. Carrying over bot commands is a low hanging fruit in this context.
+Onboarding WG: 
+ “Onboarding” is not a one-off event, but a continuous process for the whole time someone is involved in the Program. In 2024, Onboarding WG focused on two core elements of this “continuous onboarding”: first, offering skillshare sessions to help people onboard (we have run sessions on how the Program’s Treasury system works; managing a project via a GitHub project board; monitoring and evaluation; and principles of decentralised governance); and second, conducting research to help us understand how people onboard (we have run research projects on how “continuous onboarding” works across the Program, what tools are useful for onboarding, and how people onboard to ndecentralisation). We also give one-to-one mentorship to new people, and train them in the skills needed to take full part in the Program, particularly facilitating and documenting meetings. In 2025, we are thinking of potentially onboarding interested community members into the SingularityNET ecosystem as a whole, and not just the Ambassador program. You can read our most recent Quarterly Report on the Ambassador GitBook, and see details of our regular meetings in the Ambassador Program Archives.
+
+
+Process Guild
+We had a session where we had sentiment analysis about Ambassador ProgramAmbassador Program Sentiment Analysis Report May 2024
+
+
+In Q4, we experimented with creating a service that recognises meeting participation in Treasury Manager if Zoom is used. With the start of Q1 we expanded the service to 17 regular sessions: Recognising Zoom participation.
+
+
+Strategy Guild
+Translators WG
+Some stats on amount of articles/languages
+Treasury Automation WG
+Building tools to automate the Treasury System. Our goal is to make Ambassador Program Treasury Management efficient and transparent.
+
+
+We are step by step building our way from Excel Prototype to server side computation.
+You can learn more in Q4 report here
+Treasury Guild
+Video WG
+
+
+In 2024, the Video Workgroup significantly advanced its efforts in video production and quality, producing 145 videos (81 long-format and 64 short-format) and enhancing their operational processes through a fully implemented Quality Control System. The team, comprising an average of 12 active members, hosted weekly meetings and utilized tools like VideoScribe for animation, bringing a fresh, engaging style to their content. We also launched a new social media channel on Mastodon, aligning with the decentralized ethos of SingularityNET.
+
+
+Highlights included collaborations with the R&D Guild on social media automation and increased visibility across platforms, evidenced by measurable growth in engagement and viewership metrics across YouTube, Instagram, TikTok, and X (Twitter). Relevant content like ecosystem updates and educational videos can be accessed on their social media channels.
+
+
+Looking ahead to 2025, the team plans to deepen collaborations with SingularityNET spinoff projects and produce high-quality videos to amplify the ecosystem's impact further.
+
+
+A more detailed Q4 Report can be found here
+
+
+Writers WG
+This group is all about pushing the boundaries of the SNET Ambassador Program with impactful, written content. But in 2024, we didn’t just stick to writing. We broke out of the box and dove into exciting new ventures. And that’s where Zealy comes in! We formed a strategic partnership with Rejuve.AI and the Video Workgroup, designed to supercharge community engagement and outreach. Speaking of fun, our Friday trivia games became a smash hit! They’ve been a great way for community members to flex their knowledge, enjoy themselves, and bag some rewards.
+On the social media front, we expanded our storytelling by creating two X pages—one in French and the other in Pidgin, bringing SingularityNET's story to even more audiences. And when it came to publications, we leveled up big time. We launched an educational series called “We Are Reading,” and one of our standout pieces even got spotlighted by the SNET Foundation! Zealy’s success took us to new heights—so much so that the ambassadors' Medium account became eligible for monetization. This inspired us to dive deeper into exploring other Web3 publishing platforms. Oh, and let’s not forget our crowning achievement: the launch of the “SingularityNET Ecosystem Digest,” a weekly newsletter brimming with all the latest updates across the ecosystem. Looking ahead to 2025, the Writers Workgroup is fired up to continue researching Web3 publishing platforms to amplify our content distribution. We’re also laser-focused on boosting engagement across our socials, especially within the Ambassador Program community on X. And, of course, we’ll keep delivering the top-notch content we’re known for!
+
+
+[a]sorry this is just notes/ideas - i don't think i'm involved enough to actually write it
+[b]incl dashboard
+[c]link? bit dated
